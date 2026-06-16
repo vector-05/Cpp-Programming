@@ -1,0 +1,4 @@
+# Ignore compiled executables (files with no extension)
+# This matches files that have no dot in their name, common for Linux/macOS binaries
+*
+!*.*
