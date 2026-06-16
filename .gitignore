@@ -2,3 +2,4 @@
 # This matches files that have no dot in their name, common for Linux/macOS binaries
 *
 !*.*
+*.exe
